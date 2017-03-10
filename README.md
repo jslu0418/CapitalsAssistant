@@ -18,7 +18,7 @@ This script tries using as many combos of the given letters as possible to searc
 ### Make sure you've installed the redis-server and it is running and listening on 6379.
 
 ### Building vocab. tree.
-    pythono Maintainexerciseset.py
+    python Maintainexerciseset.py
 
 ### Last step.
     python CapitalsAssistant.py abcdefg...
